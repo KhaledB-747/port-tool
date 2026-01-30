@@ -8,6 +8,7 @@ Simple Python tool to lookup services by port number or scan port ranges.
 - Scan port ranges
 - Clean table output using pandas
 - CLI interface with argparse
+- if ports open in my system
 
  Usage
 
